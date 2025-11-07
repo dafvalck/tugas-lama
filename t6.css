@@ -50,7 +50,7 @@ img {
 
 .teks{
     max-width: 500px;
-    background-image: url("/foto/img-pattern.svg");
+    background-image: url("img-pattern.svg");
 }
 
 .enjoy{
@@ -84,7 +84,7 @@ button:hover{
   position: relative;
   max-width: 450px;
   margin-right: 50px;
-  background-image: url(/foto/img-pattern2.svg);
+  background-image: url(img-pattern2.svg);
 }
 .img-kiri {
   position: absolute;
@@ -110,4 +110,5 @@ button:hover{
         max-width: 80%;
         margin-top: 24px;
     }
+
 }
